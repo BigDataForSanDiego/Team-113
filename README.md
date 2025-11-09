@@ -16,12 +16,6 @@
 
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
 
-<!-- OpenDoor SD — Landing Page Flows -->
-<img height="20%" width="100%" alt="OpenDoor SD — Landing Flows"
-
-<!-- OpenDoor SD — Provider Dashboard -->
-<img height="20%" width="100%" alt="OpenDoor SD — Provider Dashboard"
-
 
 
 

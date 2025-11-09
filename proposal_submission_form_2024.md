@@ -21,7 +21,6 @@
 
 <img height="20%" width="100%" alt="OpenDoor SD — Provider Dashboard" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/assets/opendoor_provider_dashboard.jpg?raw=true">
 
-
 <img height="20%" width="100%" alt="OpenDoor SD — Landing Flows" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/assets/opendoor_landing_flows.jpg?raw=true">
 
 

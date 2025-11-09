@@ -16,12 +16,9 @@
 
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
 
+<!-- OpenDoor SD — Landing Page Flows -->
+<img height="20%" width="100%" alt="OpenDoor SD — Landing Flows"
 
-<img height="20%" width="100%" alt="OpenDoor SD — Queue & Providers" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/assets/opendoor_central_providers.jpg?raw=true">
-
-<img height="20%" width="100%" alt="OpenDoor SD — Provider Dashboard" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/assets/opendoor_provider_dashboard.jpg?raw=true">
-
-<img height="20%" width="100%" alt="OpenDoor SD — Landing Flows" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/assets/opendoor_landing_flows.jpg?raw=true">
 
 
 
